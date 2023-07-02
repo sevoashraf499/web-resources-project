@@ -1,0 +1,11 @@
+- deleted unused imports (React from 'react')
+- deleted websites, videos, tools, books, and challenges components and replaced them with one component called CardsContainer
+- TODO: add an image for "javatpoint" in /websites/ReactJS
+- Fixing the alignment of header at center (done)
+- changed the Card animation
+- applied lazy loading in Card component
+
+
+
+
+
